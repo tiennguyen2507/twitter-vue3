@@ -31,7 +31,7 @@ import {
       name: "messages",
       icon: ManOutlined,
       path:'/messages',
-      component: () => import('@/views/homePage/HomePage.vue')
+      component: () => import('@/views/message/MessagePage.vue')
     },
     {
       name: "Bookmarks",
